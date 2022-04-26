@@ -225,7 +225,7 @@ h3.nombre {
     padding:30rem 15rem;
     text-align: center;
 }
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 500px) {
 
 .header-desk{
     display: none;
