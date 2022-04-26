@@ -237,7 +237,7 @@ h3.nombre {
 
 /* ACA COMIENZA MODO DESK A PARTIR DE 413PX */
 
-@media screen and (min-width: 413px) {
+@media screen and (min-width: 500px) {
 
 /* header */
 
